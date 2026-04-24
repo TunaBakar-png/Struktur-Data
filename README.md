@@ -1,4 +1,4 @@
 # Struktur-Data
-Tugas Kuliah hahahah
+Tugas Kuliah
 
 ![Hi](IMG/Endfiled1.gif)
